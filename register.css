@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+}
+input{
+    padding: 15px;
+}
+button{
+    padding: 15px;
+    width: 100px;
+}
